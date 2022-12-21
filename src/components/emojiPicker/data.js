@@ -5,7 +5,7 @@ export const data = [
       keywords: "smiling face happy",
     },
     {
-      symbol: "❤",
+      symbol: "❤️",
       name: "corazon",
       keywords: "hearth love like",
     },
