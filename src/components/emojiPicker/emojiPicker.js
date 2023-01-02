@@ -56,7 +56,7 @@ export default forwardRef((props, inputRef) => {
 
     return (
         <div ref={containerRef}
-        // className={styles.inputContainer}
+        className={styles.inputContainer}
         >
             <button onClick={handleClickOpen} className={styles.emojiPickerButton}>😊</button>
             {isOpen ? (
